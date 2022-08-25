@@ -1,2 +1,2 @@
-#ignore files beginning with a tilde: ~
-~*
+#ignore files ending with a tilde ~
+*~
